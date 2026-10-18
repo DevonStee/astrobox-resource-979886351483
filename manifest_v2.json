@@ -3,8 +3,9 @@
     "id": "979886351483",
     "restype": "watchface",
     "name": "TILE RISE",
-    "description": "TILE RISE_包豪斯砖块_日出\n\n息屏海报, 抬腕亮屏, 一块块律动. \n目前支持小米手环 10 (nfc)/ 11(nfc)\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
+    "description": "TILE RISE_包豪斯砖块_日出\n\n息屏海报, 抬腕亮屏, 一块块律动. \n目前支持小米手环 10 (nfc)/ 11(nfc) / 9 Pro / 10 Pro\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
+      "media/00-预览-Pro适配.webp",
       "media/03-预览-亮屏关键帧.png",
       "media/04-预览-charcoal产品.png",
       "media/05-预览-息屏.png"
@@ -31,6 +32,28 @@
     }
   ],
   "downloads": {
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Tile Rise Pro.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Tile Rise Pro.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        }
+      ]
+    },
     "xmb10": {
       "version": "0.0.0",
       "file_name": "downloads/Tile Rise.face",
